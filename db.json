@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "Front-End Learning",
+      "author": "David Jordan",
+      "id": 2
+    },
+    {
+      "title": "Learning a Lot",
+      "author": "David Jordan",
+      "id": 3
+    },
+    {
+      "title": "Trying to learn",
+      "author": "David Jordan",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
